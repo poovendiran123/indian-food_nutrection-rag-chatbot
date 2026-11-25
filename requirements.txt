@@ -1,0 +1,7 @@
+
+streamlit
+chromadb
+groq
+python-dotenv
+sentence-transformers
+numpy

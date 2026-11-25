@@ -1,8 +1,6 @@
 # indian-food_nutrection-rag-chatbot
 Bilingual AI-powered Indian Food and Nutrition Assistant using RAG
-## Project Architecture
 
-![Indian Food Assistant RAG Architecture](indian_food_assistant_rag_architecture.png)
 # 🍲 Indian Food & Nutrition Assistant – RAG Chatbot
 
 A bilingual AI-powered Indian Food and Nutrition Assistant built using Retrieval-Augmented Generation (RAG). It helps users explore food information, nutritional values, and cooking recipes in both Tamil and English.

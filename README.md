@@ -1,5 +1,3 @@
-# indian-food_nutrection-rag-chatbot
-Bilingual AI-powered Indian Food and Nutrition Assistant using RAG
 
 # 🍲 Indian Food & Nutrition Assistant – RAG Chatbot
 
